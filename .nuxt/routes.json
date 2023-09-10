@@ -1,0 +1,23 @@
+[
+  {
+    "name": "latihan",
+    "path": "/latihan",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan.vue",
+    "chunkName": "pages/latihan",
+    "_name": "_49667e6c"
+  },
+  {
+    "name": "latihan2",
+    "path": "/latihan2",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan2.vue",
+    "chunkName": "pages/latihan2",
+    "_name": "_e339fc50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6ac5679e"
+  }
+]
